@@ -48,5 +48,3 @@ def calc(x):
 # вызываем функцию
 # print(is_valid_password(psw))
 print('hello world')
-print(123123)
-print(123123)
